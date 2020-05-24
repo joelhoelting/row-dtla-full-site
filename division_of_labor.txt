@@ -1,0 +1,12 @@
+# Spencer
+Header
+Footer
+CTA Modal
+Home Page 
+
+
+# Joel
+Root Styles
+Dyanimic  Pages (Events, News)
+Tenant Page
+Tenant Show Page
